@@ -1,0 +1,39 @@
+----- adjacency list of node 0 -----
+1 2 
+----- adjacency list of node 1 -----
+0 
+----- adjacency list of node 2 -----
+0 3 4 
+----- adjacency list of node 3 -----
+2 4 
+----- adjacency list of node 4 -----
+2 3 
+the graph is not complete
+the graph is not directed
+degree of node 0 is 2
+degree of node 1 is 1
+degree of node 2 is 3
+degree of node 3 is 2
+degree of node 4 is 2
+
+------ BFS 0 ------
+
+0	1	2	3	4	
+
+------ DFS from 0 ------
+
+0	2	4	3	1	
+
+------ Check if path exist between 1 and 4 ------
+
+true
+
+------ find shortest distnce fom source ------
+
+
+shortest distance of 0 from source is 0
+shortest distance of 1 from source is 1
+shortest distance of 2 from source is 1
+shortest distance of 3 from source is 2
+shortest distance of 4 from source is 2
+

@@ -1,0 +1,36 @@
+----------- inorder before deleting ----------
+3	4	5	6	7	8	9	14	15	16	17	18	20	
+----------- inorder after deleting 14 ----------
+3	4	5	6	7	8	9	15	16	17	18	20	
+----------- inorder after deleting 15 ----------
+3	4	5	6	7	8	9	16	17	18	20	
+----------- inorder after deleting 4 ----------
+3	5	6	7	8	9	16	17	18	20	
+----------- inorder after deleting 9 ----------
+3	5	6	7	8	16	17	18	20	
+----------- inorder after deleting 7 ----------
+3	5	6	8	16	17	18	20	
+----------- inorder after deleting 18 ----------
+3	5	6	8	16	17	20	
+----------- inorder after deleting 3 ----------
+5	6	8	16	17	20	
+----------- inorder after deleting 5 ----------
+6	8	16	17	20	
+----------- inorder after deleting 16 ----------
+6	8	17	20	
+----------- inorder after deleting 4 ----------
+6	8	17	20	
+----------- inorder after deleting 20 ----------
+6	8	17	
+----------- inorder after deleting 17 ----------
+6	8	
+----------- inorder after deleting 9 ----------
+6	8	
+----------- inorder after deleting 14 ----------
+6	8	
+----------- inorder after deleting 5 ----------
+6	8	
+----------- inorder after deleting 8 ----------
+6	
+----------- inorder after deleting 6 ----------
+

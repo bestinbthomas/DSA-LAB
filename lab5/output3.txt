@@ -1,0 +1,16 @@
+----- minimum spanning tree using array -----
+
+s	d	w
+
+0	1	2
+1	2	3
+0	3	6
+1	4	5
+----- minimum spanning tree using heap -----
+
+s	d	w
+
+0	1	2
+1	2	3
+0	3	6
+1	4	5

@@ -1,0 +1,1 @@
+----- 1th smallest number is 1 -----
